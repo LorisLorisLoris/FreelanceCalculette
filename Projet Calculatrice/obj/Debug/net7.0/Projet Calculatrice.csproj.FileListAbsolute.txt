@@ -1,0 +1,15 @@
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/obj/Debug/net7.0/Projet Calculatrice.csproj.AssemblyReference.cache
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/obj/Debug/net7.0/Projet Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/obj/Debug/net7.0/Projet Calculatrice.AssemblyInfoInputs.cache
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/obj/Debug/net7.0/Projet Calculatrice.AssemblyInfo.cs
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/obj/Debug/net7.0/Projet Calculatrice.csproj.CoreCompileInputs.cache
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/bin/Debug/net7.0/Projet Calculatrice
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/bin/Debug/net7.0/Projet Calculatrice.deps.json
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/bin/Debug/net7.0/Projet Calculatrice.runtimeconfig.json
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/bin/Debug/net7.0/Projet Calculatrice.dll
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/bin/Debug/net7.0/Projet Calculatrice.pdb
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/obj/Debug/net7.0/Projet Calculatrice.dll
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/obj/Debug/net7.0/refint/Projet Calculatrice.dll
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/obj/Debug/net7.0/Projet Calculatrice.pdb
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/obj/Debug/net7.0/Projet Calculatrice.genruntimeconfig.cache
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Calculatrice/obj/Debug/net7.0/ref/Projet Calculatrice.dll
