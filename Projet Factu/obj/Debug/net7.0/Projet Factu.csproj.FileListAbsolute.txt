@@ -1,0 +1,15 @@
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/bin/Debug/net7.0/Projet Factu
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/bin/Debug/net7.0/Projet Factu.deps.json
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/bin/Debug/net7.0/Projet Factu.runtimeconfig.json
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/bin/Debug/net7.0/Projet Factu.dll
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/bin/Debug/net7.0/Projet Factu.pdb
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/obj/Debug/net7.0/Projet Factu.csproj.AssemblyReference.cache
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/obj/Debug/net7.0/Projet Factu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/obj/Debug/net7.0/Projet Factu.AssemblyInfoInputs.cache
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/obj/Debug/net7.0/Projet Factu.AssemblyInfo.cs
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/obj/Debug/net7.0/Projet Factu.csproj.CoreCompileInputs.cache
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/obj/Debug/net7.0/Projet Factu.dll
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/obj/Debug/net7.0/refint/Projet Factu.dll
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/obj/Debug/net7.0/Projet Factu.pdb
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/obj/Debug/net7.0/Projet Factu.genruntimeconfig.cache
+/Users/Loris/Documents/GITHUB/public/cours dot net/Projet Factu/obj/Debug/net7.0/ref/Projet Factu.dll
