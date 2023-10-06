@@ -1,38 +1,4 @@
-﻿//Voici comment récupérer les valeurs de toutes les factures
-// Console.WriteLine("Entrez les valeurs de vos factures, puis tapez STOP quand vous avez fini.");
-// List<int> allFactures = new List<int>();
-// bool continueAsking = true;
-// do
-// {
-//     bool isOk = false;
-//     do
-//     {
-//         string reponseString = "";
-//         try
-//         {
-//             //on récupére une facture
-//             Console.WriteLine("Quel est la valeur TTC de votre facture ?");
-//             reponseString = Console.ReadLine();
-//             int reponse = Convert.ToInt32(reponseString);
-//             allFactures.Add(reponse);
-//             isOk = true;
-//         }
-//         catch (Exception ex)
-//         {
-//             continueAsking = !string.Equals(reponseString, "STOP", StringComparison.CurrentCultureIgnoreCase);
-//             Console.WriteLine("Entrée incorrecte, veuillez rééssayer");
-//             isOk = false;
-//         }
-//     }
-//     while (!isOk);
-// }
-// while (continueAsking);
-
-
-// Console.WriteLine("Tapez sur n'importe quelle touche pour quitter l'application.");
-// Console.ReadLine();
-
-//RECUPERER LE NOMBRE DE FACTURES
+﻿//RECUPERER LE NOMBRE DE FACTURES
 Console.WriteLine("Combien de facture possedez-vous ?");
 int nombreFacture = Convert.ToInt32(Console.ReadLine());
 
